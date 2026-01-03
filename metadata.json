@@ -1,0 +1,9 @@
+{
+  "name": "Copy of MP Kisan AI - Smart Crop Advisor",
+  "description": "An AI-powered agricultural platform designed specifically for farmers in Madhya Pradesh, offering crop recommendations, pest detection, and soil-specific fertilizer advisory using Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation",
+    "microphone"
+  ]
+}
